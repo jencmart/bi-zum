@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org-openide-util-lookup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org-openide-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zum-2014-template-3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
